@@ -1,6 +1,5 @@
 # Load Shedding Management System
 
-![GitHub](https://img.shields.io/github/license/khpcoding/Load-Shedding)
 ![GitHub last commit](https://img.shields.io/github/last-commit/khpcoding/Load-Shedding)
 ![GitHub repo size](https://img.shields.io/github/repo-size/khpcoding/Load-Shedding)
 
@@ -36,7 +35,7 @@ To get started with the Load Shedding Management System, follow these steps:
    ```bash
    git clone https://github.com/khpcoding/Load-Shedding.git
    cd Load-Shedding
-   ‍‍‍‍‍‍```
+  ```
 ## Install Dependencies:
 ```bash
 pip install -r requirements.txt
