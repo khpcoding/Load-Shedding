@@ -35,4 +35,23 @@ To get started with the Load Shedding Management System, follow these steps:
    ```bash
    git clone https://github.com/khpcoding/Load-Shedding.git
    cd Load-Sheddin
+
+## Install Dependencies:
+
+```bash
+pip install -r requirements.txt
 ```
+
+## Run the Application: 
+```bash 
+python main.py
+```
+
+## Usage
+Once the application is running, you can:
+
+View Load Shedding Schedules: Navigate to the schedules section to see the current load shedding timetable.
+
+Set Up Notifications: Configure your notification preferences to receive alerts.
+
+Analyze Data: Use the analytics dashboard to explore load shedding patterns and predictions.
