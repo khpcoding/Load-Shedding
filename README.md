@@ -37,9 +37,12 @@ To get started with the Load Shedding Management System, follow these steps:
    cd Load-Shedding
   ```
 
-## Install Dependencies:
-pip install -r requirements.txt
-```
+##Install Dependencies:
+
+ ```bash
+   git clone https://github.com/khpcoding/Load-Shedding.git
+   cd Load-Shedding
+  ```
 
 ## Run the Application:
 ```bash
