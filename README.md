@@ -38,7 +38,6 @@ To get started with the Load Shedding Management System, follow these steps:
   ```
 
 ## Install Dependencies:
-```bash
 pip install -r requirements.txt
 ```
 
