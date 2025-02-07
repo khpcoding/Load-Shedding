@@ -11,9 +11,6 @@ Welcome to the **Load Shedding Management System** repository! This project is d
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
