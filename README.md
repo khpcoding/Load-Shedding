@@ -36,10 +36,12 @@ To get started with the Load Shedding Management System, follow these steps:
    git clone https://github.com/khpcoding/Load-Shedding.git
    cd Load-Shedding
   ```
+
 ## Install Dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
 ## Run the Application:
 ```bash
 python main.py
