@@ -38,8 +38,6 @@ To get started with the Load Shedding Management System, follow these steps:
   ```
 
 ##Install Dependencies:
-
- ```bash
    git clone https://github.com/khpcoding/Load-Shedding.git
    cd Load-Shedding
   ```
