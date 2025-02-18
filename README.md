@@ -1,7 +1,5 @@
 # Load Shedding Management System
 
-![GitHub last commit](https://img.shields.io/github/last-commit/khpcoding/Load-Shedding)
-![GitHub repo size](https://img.shields.io/github/repo-size/khpcoding/Load-Shedding)
 
 Welcome to the **Load Shedding Management System** repository! This project is designed to help manage and predict load shedding schedules efficiently. Load shedding is a common issue in many regions, and this tool aims to provide a reliable and user-friendly solution to keep track of power outages and plan accordingly.
 
